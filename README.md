@@ -2,12 +2,11 @@
 
 Hi, I'm Sowjanya.
 
-Aspiring Data Analyst skilled in:
-- SQL
-- Excel
-- Power BI
-- Python
-- Data Visualization
+## Certifications
+
+- HackerRank SQL (Basic) Certification – June 2026
+  - Skills: SELECT, WHERE, JOINS, GROUP BY, Aggregations
+  - Certificate: [View Certificate]([link-to-pdf](https://github.com/sowjanya-ananthasetty/Data-Analytics-Portfolio/blob/main/sql_basic%20certificate.pdf))
 
 ## Certifications
 - HackerRank SQL (Basic)
